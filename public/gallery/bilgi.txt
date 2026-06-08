@@ -1,0 +1,1 @@
+Resim ve videolarınızı bu klasöre "public/gallery" yükleyebilirsiniz. Yükledikten sonra src/data.ts dosyasındaki `galleryMedia` listesine dosya isimlerini (örn: "/gallery/foto1.jpg") eklemeniz yeterli olacaktır. Yada bana söyleyin, ben hallederim!
